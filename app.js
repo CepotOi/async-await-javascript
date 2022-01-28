@@ -1,5 +1,5 @@
-async function actionOne() {
-  await setTimeout(() => {
+function actionOne() {
+  setTimeout(() => {
     console.log('First');
   }, 3000);
 }
