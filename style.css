@@ -1,0 +1,8 @@
+.countries-img {
+  width: 100%;
+  border-bottom: 1px solid var(--bs-gray-700)
+}
+
+.card {
+  border: 2px solid black;
+}
